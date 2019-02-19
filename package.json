@@ -1,0 +1,29 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lysektomas/codewars.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lysektomas/codewars/issues"
+  },
+  "homepage": "https://github.com/lysektomas/codewars#readme",
+  "dependencies": {
+    "@babel/core": "^7.3.3",
+    "@babel/preset-env": "^7.3.1",
+    "jest": "^23.6.0"
+  },
+  "devDependencies": {
+    "babel-jest": "^24.1.0",
+    "babel-polyfill": "^6.26.0",
+    "babel7-jest": "^1.0.1"
+  }
+}
